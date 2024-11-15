@@ -1,0 +1,47 @@
+.header__wrap {
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    width: 80%;
+    margin: auto;
+}
+
+.header__text {
+    margin: 0;
+    text-align: center;
+    font-size: 30px;
+    padding: 0 3%;
+    border: none;
+}
+
+.date__change-button {
+    padding: 0 20px;
+    font-size: 30px;
+    color: #1175E1;
+    border: 1px solid #1175E1;
+    background-color: white;
+}
+
+.table__wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+}
+
+.attendance__table {
+    width: 100%;
+}
+
+.table__header,
+.table__item {
+    width: 20%;
+    text-align: left;
+    padding-left: 5%;
+    height: 80px;
+    border-top: 1px solid gray;
+    font-size: 25px;
+}
+

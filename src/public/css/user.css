@@ -1,0 +1,11 @@
+.user_button {
+    display: inline-block;
+    padding: 8px 16px;
+    color: #1175E1;
+    background-color: white;
+    text-decoration: none;
+    border-radius: 3px;
+    border: 1px solid #1175E1;
+    text-align: center;
+    transition: background-color 0.3s, border-color 0.3s;
+}
