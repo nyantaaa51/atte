@@ -3,7 +3,7 @@
 ## 概要説明
 - Atteは、社員の勤怠管理を行うためのシステムです。社員の出退勤や休憩時間を管理し、人事評価にも役立てられるよう設計されています。
 
-<img src="atte/top.png" alt="トップ画面" width="500">
+<img src="laravel/atte/top.png" alt="トップ画面" width="500">
 
 
 ## 作成した目的
