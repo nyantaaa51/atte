@@ -3,7 +3,7 @@
 ## 概要説明
 - Atteは、社員の勤怠管理を行うためのシステムです。社員の出退勤や休憩時間を管理し、人事評価にも役立てられるよう設計されています。
 
-<img src="{{ asset('img/top.png') }}" alt="トップ画面" />
+![トップ画面](img/top.png)
 
 
 ## 作成した目的
@@ -35,11 +35,10 @@
 - その他: Docker（開発環境用）
 
 ## テーブル設計
-<img src="{{ asset('img/table.png') }}" alt="テーブル仕様書" />
+![テーブル仕様書](img/table.png)
 
 ## ER図
-<img src="{{ asset('img/atte.drawio') }}" alt="ER図" />
-
+![ER図](img/atte.drawio)
 
 ## 環境構築
 他の人がプロジェクトを実行するための手順を示します。
