@@ -38,7 +38,7 @@
 ![テーブル仕様書](img/table.png)
 
 ## ER図
-![ER図](img/ER.png)
+![ER](https://github.com/user-attachments/assets/6ee181c9-7a19-42a7-adfe-bf9621ce877a)
 
 ## 環境構築
 他の人がプロジェクトを実行するための手順を示します。
