@@ -3,7 +3,7 @@
 ## 概要説明
 - Atteは、社員の勤怠管理を行うためのシステムです。社員の出退勤や休憩時間を管理し、人事評価にも役立てられるよう設計されています。
 
-![トップ画面](img/top.png)
+![ホーム画面](https://github.com/user-attachments/assets/c0abafdc-8d39-4883-84c2-ef3402c0af9b)
 
 
 ## 作成した目的
@@ -13,12 +13,6 @@
 - ログイン情報: テストアカウントでログイン可能
 - メールアドレス: admin@example.com
 - パスワード: admin123
-
-
-## 他のリポジトリ
-関連するリポジトリがあれば記載してください。例）バックエンドとフロントエンドが別の場合：
-- [バックエンドリポジトリ](https://github.com/example/backend)
-- [フロントエンドリポジトリ](https://github.com/example/frontend)
 
 
 ## 機能一覧
@@ -35,13 +29,11 @@
 - その他: Docker（開発環境用）
 
 ## テーブル設計
-![テーブル仕様書](img/table.png)
+![テーブル仕様書](https://github.com/user-attachments/assets/27061c11-21d2-4455-b22b-5c1158a065e5)
 
 ## ER図
 ![ER](https://github.com/user-attachments/assets/6ee181c9-7a19-42a7-adfe-bf9621ce877a)
 
-## 環境構築
-他の人がプロジェクトを実行するための手順を示します。
 
 ## アカウントの種類
 - 管理者アカウント
